@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Deckofcards/Deckofcards.iml" filepath="$PROJECT_DIR$/Deckofcards/Deckofcards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StackAccountManagement/StackAccountManagement.iml" filepath="$PROJECT_DIR$/StackAccountManagement/StackAccountManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objrct_oriented_progrms.iml" filepath="$PROJECT_DIR$/objrct_oriented_progrms.iml" />
+    </modules>
+  </component>
+</project>
